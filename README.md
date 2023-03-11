@@ -1,5 +1,9 @@
 # index.html
 <html>
+    
+  <head>
+   <link rel="stylesheet""style.css">
+    </head>
     <body>
         <header>
             <img class="icons" src="/uploads/2020/12/painter-161318_1280_0_1606929818.png"/>
